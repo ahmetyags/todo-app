@@ -37,12 +37,6 @@ todo (folder)
                 |----clipboard-list-solid.svg
              
 ```
-### Screenshot
-
-<p align="center">
-<a href="https://github.com/ahmetyags/todo-app/"><img src="todo.gif" alt="screenshot" width="100%"></a>
-</p>
-
 
 ### Links
 
