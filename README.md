@@ -40,13 +40,13 @@ todo (folder)
 ### Screenshot
 
 <p align="center">
-<a href="https://sezginakgul.github.io/todo/"><img src="todo.gif" alt="screenshot" width="100%"></a>
+<a href="https://github.com/ahmetyags/todo-app/"><img src="todo.gif" alt="screenshot" width="100%"></a>
 </p>
 
 
 ### Links
 
-- Live: [Live Website](https://sezginakgul.github.io/todo/)
+- Live: [Live Website](https://ahmetyags.github.io/todo-app/)
 
 
 
