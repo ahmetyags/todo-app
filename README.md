@@ -6,7 +6,6 @@
   - [The challenge](#the-challenge)
   - [User Stories](#user-stories)
   - [Project Skeleton](#project-skeleton)
-  - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
