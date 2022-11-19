@@ -14,6 +14,8 @@
 
 ## Overview
 
+(todo.gif)
+
 ### The challenge
 
 Your company has recently started on a project that aims to create a simple To-Do App. So you and your colleagues have started to work on the project.
