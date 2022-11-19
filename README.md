@@ -14,7 +14,7 @@
 
 ## Overview
 
-(todo.gif)
+![project](todo.gif)
 
 ### The challenge
 
